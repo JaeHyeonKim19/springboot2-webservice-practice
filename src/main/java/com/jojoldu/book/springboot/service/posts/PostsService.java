@@ -6,7 +6,6 @@ import com.jojoldu.book.springboot.web.dto.PostsResponseDto;
 import com.jojoldu.book.springboot.web.dto.PostsSaveRequestDto;
 import com.jojoldu.book.springboot.web.dto.PostsUpdateRequestDto;
 import lombok.RequiredArgsConstructor;
-import net.bytebuddy.pool.TypePool;
 import org.springframework.stereotype.Service;
 
 import javax.transaction.Transactional;
